@@ -1,6 +1,7 @@
 ## Installation
 pip install langchain langchain-community langchain_text_splitters langchain_openai langchain_chroma python_dotenv
 pip install langchain-google-genai
+pip install rank_bm25
 
 ## Test Retreival quality
 Prompt
